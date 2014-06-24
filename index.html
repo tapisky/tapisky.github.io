@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/jslib.js"></script>
+<script src="js/textlib.js"></script>
+<title>Duo Buitenkant-Reitz</title>
+</head>
+<body onload="switch_language('german')";>
+
+  <div id='loader'>
+  </div>
+
+  <div id='main-container'>
+
+
+    <div id='flags'>
+      <a onclick='javascript: switch_language("polish");'><img src='resources/images/poland.png' width=30px height=30px></a>
+      <a onclick='javascript: switch_language("english");'><img src='resources/images/uk.png' width=30px height=30px></a>
+      <a onclick='javascript: switch_language("german");'><img src='resources/images/germany.png' width=30px height=30px></a>
+    </div>
+
+    <div id='social'>
+      <a href='https://www.facebook.com/buitenkantreitz?ref=ts&fref=ts' target="_blank"><img src='resources/images/facebook_logo.png' width=30px height=30px></a>
+    </div>
+
+    <div id='main-title'>
+      <!-- <p id='title'>
+        Duo Buitenkant-Reitz
+      </p> -->
+      <img src='resources/images/titlecopy.png'>
+    </div>
+
+    <div id='links'>
+      <ul>
+        <li></li>
+        <li><a id='home_link'>Home</a></li>
+        <li><a id='about_link'></a></li>
+        <li><a id='calendar_link'></a></li>
+        <li><a id='repertoire_link'></a></li>
+        <li><a id='multimedia_link'></a></li>
+        <li><a id='gallery_link'></a></li>
+        <li><a id='contact_link'></a></li>
+      </ul>
+    </div>
+
+    <div id='main-content'>
+
+      <img src='resources/images/buitenkant-reitz_ed.jpg' width=800px height=500px>
+
+      <div id='about-content' class='container'>
+        <div id='about-text' class='content'>
+        </div>
+        <div class='up-arrow'>
+          <h2><a><img src='resources/images/up-arrow.png' height=30px width=30px></a></h2>
+        </div>
+        <div class='down-arrow'>
+          <h2><a><img src='resources/images/down-arrow.png' height=30px width=30px></a></h2>
+        </div>
+      </div>
+
+      <div id='calendar-content' class='container'>
+        <div id='calendar-container' class='content'>
+          <p id='calendar-text'></p><br>
+        </div>
+        <div class='up-arrow'>
+          <h2><a><img src='resources/images/up-arrow.png' height=30px width=30px></a></h2>
+        </div>
+        <div class='down-arrow'>
+          <h2><a><img src='resources/images/down-arrow.png' height=30px width=30px></a></h2>
+        </div>
+      </div>
+
+      <div id='repertoire-content' class='container'>
+        <div id='repertoire-text' class='content'>
+        </div>
+        <div class='up-arrow'>
+          <h2><a><img src='resources/images/up-arrow.png' height=30px width=30px></a></h2>
+        </div>
+        <div class='down-arrow'>
+          <h2><a><img src='resources/images/down-arrow.png' height=30px width=30px></a></h2>
+        </div>
+      </div>
+
+      <div id='multimedia-content' class='container-opac'>
+        <div id='multimedia-text' class='video'>
+          <iframe width="725" height="441" src="http://www.youtube.com/embed/XsD-jmiOOOE" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+
+      <div id='gallery-content' class='container-opac'>
+        <div id='left-arrow'>
+          <h2><a><img src='resources/images/left-arrow.png' height=30px width=30px></a></h2>
+        </div>
+        <div id='right-arrow'>
+          <h2><a><img src='resources/images/right-arrow.png' height=30px width=30px></a></h2>
+        </div>
+        <div id='gallery-counter'>
+        </div>
+
+        <img class='picviewer' src='resources/images/gallery/1.jpg'>
+        <img class='picviewer' src='resources/images/gallery/2.jpg'>
+        <img class='picviewer' src='resources/images/gallery/3.jpg'>
+        <img class='picviewer' src='resources/images/gallery/4.jpg'>
+        <img class='picviewer' src='resources/images/gallery/5.jpg'>
+        <img class='picviewer' src='resources/images/gallery/6.jpg'>
+        <img class='picviewer' src='resources/images/gallery/7.jpg'>
+        <img class='picviewer' src='resources/images/gallery/8.jpg'>
+        <img class='picviewer' src='resources/images/gallery/9.jpg'>
+        <img class='picviewer' src='resources/images/gallery/10.jpg'>
+        <img class='picviewer' src='resources/images/gallery/11.jpg'>
+        <img class='picviewer' src='resources/images/gallery/12.jpg'>
+        <img class='picviewer' src='resources/images/gallery/13.jpg'>
+        <img class='picviewer' src='resources/images/gallery/14.jpg'>
+        <img class='picviewer' src='resources/images/gallery/15.jpg'>
+
+      </div>
+
+
+      <div id='contact-content' class='container'>
+        <div id='about-text' class='content'>
+          <p id='contact-text'></p><br>
+        </div>
+      </div>
+
+
+
+    </div>
+
+    <div id='audio-player'>
+      <audio id='audio-control' controls>
+         <source src="" type="">
+         <!-- <source src="resources/audio/chopin.ogg" type="audio/ogg"> -->
+         Audio not supported
+      </audio>
+    </div>
+    <div id='track-text'>
+      <div id='roll'></div>
+    </div>
+
+    <div id='main-text'>
+      <p id='info'></p><br><br>
+    </div>
+
+
+  </div>
+
+<body>
