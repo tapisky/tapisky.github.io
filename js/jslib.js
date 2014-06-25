@@ -109,7 +109,7 @@ function switch_language(language)
 }
 
 // JQuery functions
-$( document ).ready(function() {
+$(window).load(function() {
 
   // $('#main-container').css('margin-left','-' + String(screen.width/2) + 'px');
   $('#main-container').css('margin-left','-640px');
