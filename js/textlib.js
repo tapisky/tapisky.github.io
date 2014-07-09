@@ -83,7 +83,7 @@ var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
 
 // var english_gallery = "<p id='about'><u>Gallery</u></p><br>";
 
-var english_contact = "<p id='about'>Address</p>";
+var english_contact = "";
 
 // German content
 var german_link_about = "Über uns";
