@@ -8,7 +8,7 @@ var english_link_contact = "Contact";
 
 var english_frontpage = "<p id='info'>The Duo Buitenkant-Reitz was founded in 2008. The combination " +
   "of a broad repertoire, high-level collaboration and their love for both famous and more obscure " +
-  "compositions from the whole of musical literature has resulted in many succesfull concerts.</p>"
+  "compositions from the whole of musical literature has resulted in many succesfull concerts.</p>";
 
 var english_about = "<p id='about'><u>About</u></p><br>" +
   "<p id='about'>The Duo Buitenkant-Reitz was founded in 2008. The musicians got to know each other " +
@@ -23,7 +23,7 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
   "<p id='about'>The duo plays various music from Baroque to contemporary. One of their specialties " +
   "are the sonatas by Ludwig van Beethoven, which were part of their programme already more than 25 times. " +
   "They plan to record all five sonatas in 2020, the year marking the anniversary of Beethoven's birth. " +
-  "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>"
+  "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>";
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>";
 
@@ -95,7 +95,7 @@ var german_link_contact = "Kontakt";
 
 var german_frontpage = '<p id="info">Das Duo Buitenkant-Reitz besteht seit 2008. Die Kombination aus breitem Repertoire, ' +
 'herausragendem Zusammenspiel und der Liebe und Leidenschaft der Musiker für bekannte ebenso wie unbekannte Werke der ' +
-'musikalischen Literatur fand schon in vielen erfolgreichen Konzerten ihren Ausdruck.</p>'
+'musikalischen Literatur fand schon in vielen erfolgreichen Konzerten ihren Ausdruck.</p>';
 
 var german_about = "<p id='about'><u>Über uns</u></p><br>" +
   '<p id="about">Das Duo Buitenkant-Reitz wurde 2008 gegründet. Die Musiker hatten sich bereits ein Jahr zuvor ' +
@@ -111,7 +111,7 @@ var german_about = "<p id='about'><u>Über uns</u></p><br>" +
   '<p id="about">Das Duo Buitenkant-Reitz spielt Werke ab Barock bis ins 20. Jahrhundert. Eine Spezialität der beiden sind die ' +
   'Sonaten von Ludwig van Beethoven, die mitterweile schon mehr als 25 Mal auf einem ihrer Konzertprogramme standen. Sie planen, ' +
   'im Jahr 2020, dem grossen Jubiläumsjahr Beethovens, Aufnahmen aller fünf Sonaten sowie der Variationswerke zu veröffentlichen. ' +
-  'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>'
+  'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>';
 
 var german_calendar = "<p id='about'><u>Kalender</u></p><br>";
 
@@ -185,24 +185,23 @@ var polish_link_multimedia = "Multimedia";
 var polish_link_gallery = "Galeria";
 var polish_link_contact = "Kontakt";
 
-var polish_frontpage = "<p id='info'>Duo Buitenkant-Reitz powstał w roku 2008. Kombinacja szerokiego repertuaru, współgrania" +
-  " na wysokim poziomie oraz ich miłość dla słynnych i" +
-  " nieznanych utworów z całej literatury muzycznej wynikała już w dużo udanych koncertów.</p>";
+var polish_frontpage = "<p id='info'>Duet Buitenkant-Reitz powstał w roku 2008. Ich szeroki repertuar, " +
+  "współpraca na wysokim poziomie oraz wielka miłość do zarówno tych słynnych, jak i mniej znanych utworów " +
+  "z ogółu literatury muzycznej, zaowocowała dużą ilością udanych koncertów.</p>";
 
 var polish_about = "<p id='about'><u>O nas</u></p><br>" +
-  "<p id='about'>Duo Buitenkant-Reitz zostało ustanawiony w roku 2008. Muzycy się poznali już" +
-  " rok wcześniej na kursie muzycznej 'Jolimont' w Szwajcarii, grając tam razem w trio" +
-  " fortepianowym. Po dwóch letnich czasach pełno muzyki, zdecydowali kontinuować jako duet i" +
-  " zaczęli grać liczne kolei koncertów w Szwajcarii oraz w Holandii.</p><br>" +
-  "<p id='about'>Po pięciu lat współpracy ich repertuar już zawiera wielką część znanej" +
-  " literatury na wiolonczeli i fortepianie także dużo nieznanych i rzadko granych utworów." +
-  " Zawsze z wielką radościa ćwiczą nowe utwory, dając publikum okazję żeby poznać nieznane" +
-  " kawałki. Zwłaszcza formuła jednej sławnej kompozycji razem z mało granym dziełem okazało się" +
-  " często jako wielki sukses.</p><br>" +
-  "<p id='about'>Duo gra dzieła od czasu barokowego do 20ego wieku. Jeden z ich specjalności są" +
-  " sonaty Ludwiga van Beethovena, które już się znalazły na programie ponad 25 razy. Oni mają" +
-  " zamiar nagrywać wszystkie sonaty w roku Beethovena w 2020. Oprócz tego grają z chęcią muzykę" +
-  " Bacha, Debussy' ego i z epoku romantycznego.</p><br>";
+  "<p id='about'>Duet Buitenkant-Reitz został założony w roku 2008. Obaj muzycy poznali się już rok wcześniej " +
+  "na kursie muzycznym Jolimont w Szwajcarii, grając tam razem w trio fortepianowym. Po dwóch, wypełnionych muzyką " +
+  "sezonach letnich, zdecydowali się kontynuować jako duet, rozpoczynając liczne tournee po Szwajcarii oraz Holandii.</p><br>" +
+  "<p id='about'>Po pięciu latach współpracy, repertuar duetu zawiera znaczną część znanej literatury " +
+  "na wiolonczelę i fortepian, w tym wiele nieznanych i rzadko wykonywanych utworów. Ćwiczenie nowych " +
+  "utworów zawsze sprawia im wielką satysfakcję, jak również daje publiczności sposobność zapoznania się " +
+  "z mało znanymi utworami. Doskonałą receptą na sukces okazuje się przeważnie zestawienie wielkiego, " +
+  "znanego dzieła z mniej znanym utworem.</p><br>" +
+  "<p id='about'>Duet ma w swoim repertuarze różnorodne utwory, od baroku do muzyki współczesnej. Jedną ze " +
+  "specjalności są sonaty Ludwiga van Beethovena, które znalazły się w programach koncertowych duwtu już ponad 25 razy. " +
+  "Muzycy zamierzają nagrać wszystkie pięć sonat w roku 2020, będącym rokiem beethovenowskim z racji okrągłej rocznicy " +
+  "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy' ego oraz muzyczna literatura romantyzmu.</p><br>";
 
 var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>";
 
