@@ -6,25 +6,24 @@ var english_link_multimedia = "Multimedia";
 var english_link_gallery = "Gallery";
 var english_link_contact = "Contact";
 
-var english_frontpage = "<p id='info'>The Duo Buitenkant-Reitz was founded in 2008. The combination" +
-  " of a broad repertoire, high-level playing together and their love for well-known and" +
-  " unsung compositions from the entire music literature resulted in many succesfull concerts.</p>";
+var english_frontpage = "<p id='info'>The Duo Buitenkant-Reitz was founded in 2008. The combination " +
+  "of a broad repertoire, high-level collaboration and their love for both famous and more obscure " +
+  "compositions from the whole of musical literature has resulted in many succesfull concerts.</p>"
 
 var english_about = "<p id='about'><u>About</u></p><br>" +
-  "<p id='about'>The Duo Buitenkant-Reitz was founded in 2008. The musicians got" +
-  " to know eachother one year before at the Jolimont-music course in Switzerland, playing" +
-  " together in a piano trio. After two summers full of music they decided to continue as" +
-  " a duet, and started to play several concert tours througout Switzerland and the Netherlands.</p><br>" +
-  "<p id='about'>After five years of working together, their repertoire already contains a" +
-  " major part of the well-known cello-piano literature, as well as a lot of unknown and" +
-  " unsung compositions. Every time the musicians enjoy practising new works, giving the" +
-  "audience an opportunity to get to know unknown pieces. With great precizeness they put" +
-  "together their programs. Especially the formula of a big famous composition together with" +
-  " a seldomly played one often turned out to be a big succes.</p><br>" +
-  "<p id='about'>The duo plays music from baroque till 20th century. One of their specialities" +
-  " are the sonatas by Ludwig van Beethoven that were part of a program already over 25 times." +
-  " They are planning to record all five sonatas in 2020, the great Beethoven anniversary jear." +
-  " Other beloved composers are Bach, Debussy and generally works from the romantic epoque.</p><br>";
+  "<p id='about'>The Duo Buitenkant-Reitz was founded in 2008. The musicians got to know each other " +
+  "one year before, at the Jolimont music course in Switzerland, playing together in a piano trio. " +
+  "After two summers full of music they decided to continue as a duo and started to play several " +
+  "concert tours throughout Switzerland and the Netherlands.</p><br>" +
+  "<p id='about'>After five years of working together, their repertoire already contains a major part " +
+  "of the well-known cello-piano literature, as well as a lot of unknown and yet unsung compositions. " +
+  "Every time the musicians enjoy practising new works, giving the audience an opportunity to get to know " +
+  "unknown works. They put together their programs with great precision. Especially, pairing a big famous " +
+  "composition together with a seldomly played one, often turns out to be a big success.</p><br>" +
+  "<p id='about'>The duo plays various music from Baroque to contemporary. One of their specialties " +
+  "are the sonatas by Ludwig van Beethoven, which were part of their programme already more than 25 times. " +
+  "They plan to record all five sonatas in 2020, the year marking the anniversary of Beethoven's birth. " +
+  "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>"
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>";
 
