@@ -199,9 +199,9 @@ var polish_about = "<p id='about'><u>O nas</u></p><br>" +
   "z mało znanymi utworami. Doskonałą receptą na sukces okazuje się przeważnie zestawienie wielkiego, " +
   "znanego dzieła z mniej znanym utworem.</p><br>" +
   "<p id='about'>Duet ma w swoim repertuarze różnorodne utwory, od baroku do muzyki współczesnej. Jedną ze " +
-  "specjalności są sonaty Ludwiga van Beethovena, które znalazły się w programach koncertowych duwtu już ponad 25 razy. " +
+  "specjalności są sonaty Ludwiga van Beethovena, które znalazły się w programach koncertowych duetu już ponad 25 razy. " +
   "Muzycy zamierzają nagrać wszystkie pięć sonat w roku 2020, będącym rokiem beethovenowskim z racji okrągłej rocznicy " +
-  "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy' ego oraz muzyczna literatura romantyzmu.</p><br>";
+  "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy'ego oraz muzyczna literatura romantyzmu.</p><br>";
 
 var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>";
 
