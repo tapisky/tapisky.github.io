@@ -299,6 +299,9 @@ $(window).load(function() {
   item[1] = 'Chopin';
   audioarray.push(item);
   item = new Array();
+  item[0] = 'resources/audio/chopin.wav';
+  item[1] = 'Chopin';
+  audioarray.push(item);
   // item[0] = 'resources/audio/goforit.mp3';
   // item[1] = 'Tapiador - Go For It';
   // audioarray.push(item);
