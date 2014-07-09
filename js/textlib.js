@@ -94,25 +94,25 @@ var german_link_multimedia = "Multimedia";
 var german_link_gallery = "Bilder";
 var german_link_contact = "Kontakt";
 
-var german_frontpage = "<p id='info'>Das Duo Buitenkant-Reitz wurde 2008 gegründet. Die Kombination" +
-  " eines breiten Repertoires, hochleistigen Zusammenspiels und Liebe für bekannte und" +
-  " unbekannte werke der gesamten Literatur führte schon in vielen erfolgreichen Konzerte.</p>"
+var german_frontpage = '<p id="info">Das Duo Buitenkant-Reitz besteht seit 2008. Die Kombination aus breitem Repertoire, ' +
+'herausragendem Zusammenspiel und der Liebe und Leidenschaft der Musiker für bekannte ebenso wie unbekannte Werke der ' +
+'musikalischen Literatur fand schon in vielen erfolgreichen Konzerten ihren Ausdruck.</p>'
 
 var german_about = "<p id='about'><u>Über uns</u></p><br>" +
-  "<p id='about'>Das Duo Buitenkant-Reitz wurde 2008 gegründet. Die Musiker lernten sich bereits ein Jahr" +
-    "früher am “Jolimont-Musiklager” in der Schweiz kennen, wo sie anfangs in der Triobesatzung spielten." +
-    "Nach Zwei Sommer voller Musik entschieden Sie als festes Duo weiter zu gehen, und fingen an regelmäßig " +
-    "Konzert-Tours zu spielen in der Schweiz und auch Holland.</p><br>" +
-  "<p id='about'>Schon nach 5 Jahren Zusammenarbeit umfasste ihr Repertoire einen grossen Teil der bekannten" +
-    "Cello-Klavier-Literatur, vor allem Sonaten, sowie ein Haufen seltsam gespielte und 'Ungesungene' Werke." +
-    "Immer wieder haben die beide Musiker daran grosses Vergnügen, neue Werke zu Proben und auf zu führen," +
-    "und gleichzeitig das Publikum die Gelegenheit zu geben, unbekannte Werke kennen lernen zu lernen. Mit" +
-    "großer Sorgfaltigkeit werden die Programme zusammengestelt. Vor allem der Formel eines bekannten großen" +
-    "werkes zusammen mit ein selten aufgeführtes war schon oft ein großer Erfolg.</p><br>" +
-  "<p id='about'>Das Duo spielt Musik ab Barok bis im 20. Jahrhundert. Eine besondere Spezialität der beiden" +
-    "sind die Sonaten von Ludwig van Beethoven, die mitterweile schon über 25 Mal auf einem Konzertprogram" +
-    "standen. Sie haben vor im 2020, das Große Beethoven-Jubiläum, alle 5. sonaten, sowie die Variationswerke " +
-    "aufzunehmen. Gerne spielen sie sonst Bach, Debussy und große romantische Werke.</p><br>";
+  '<p id="about">Das Duo Buitenkant-Reitz wurde 2008 gegründet. Die Musiker hatten sich bereits ein Jahr zuvor' +
+   'im “Jolimont-Musiklager” in der Schweiz kennengelernt, wo sie anfangs in der Triobesetzung spielten. Nach zwei ' +
+   'Sommern voller Musik entschieden sie sich, als festes Duo weiter zu gehen, und begannen mit der Durchführung ' +
+   'regelmässiger Konzerttourneen in der Schweiz und in Holland.</p><br>' +
+  '<p id="about">Bereits nach 5 Jahren der Zusammenarbeit umfasste ihr Repertoire einen grossen Teil der bekannten Literatur ' +
+  'für Cello und Klavier, vor allem Sonaten, sowie eine Anzahl selten gespielte und unbekannte Werke. Gerade die Arbeit an ' +
+  'Letzteren bereitet den beiden Musikern grosses Vergnügen, und gerne geben sie dann auch dem Publikum die Gelegenheit, solche ' +
+  'weniger bekannte Werke in in qualitativ hochstehender Interpretation kennen zu lernen. Mit großer Sorgfalt werden die Programme ' +
+  'für die einzelnen Konzerte zusammengestellt. Vor allem die Kombination aus einem bekannten, großen Werk und einem selten ' +
+  'aufgeführten war schon oft ein großer Erfolg.</p><br>' +
+  '<p id="about">Das Duo Buitenkant-Reitz spielt Werke ab Barock bis ins 20. Jahrhundert. Eine Spezialität der beiden sind die ' +
+  'Sonaten von Ludwig van Beethoven, die mitterweile schon mehr als 25 Mal auf einem ihrer Konzertprogramme standen. Sie planen, ' +
+  'im Jahr 2020, dem grossen Jubiläumsjahr Beethovens, Aufnahmen aller fünf Sonaten sowie der Variationswerke zu veröffentlichen. ' +
+  'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>'
 
 var german_calendar = "<p id='about'><u>Kalender</u></p><br>";
 
