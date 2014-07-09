@@ -99,7 +99,7 @@ var german_frontpage = '<p id="info">Das Duo Buitenkant-Reitz besteht seit 2008.
 'musikalischen Literatur fand schon in vielen erfolgreichen Konzerten ihren Ausdruck.</p>'
 
 var german_about = "<p id='about'><u>Über uns</u></p><br>" +
-  '<p id="about">Das Duo Buitenkant-Reitz wurde 2008 gegründet. Die Musiker hatten sich bereits ein Jahr zuvor' +
+  '<p id="about">Das Duo Buitenkant-Reitz wurde 2008 gegründet. Die Musiker hatten sich bereits ein Jahr zuvor ' +
    'im “Jolimont-Musiklager” in der Schweiz kennengelernt, wo sie anfangs in der Triobesetzung spielten. Nach zwei ' +
    'Sommern voller Musik entschieden sie sich, als festes Duo weiter zu gehen, und begannen mit der Durchführung ' +
    'regelmässiger Konzerttourneen in der Schweiz und in Holland.</p><br>' +
