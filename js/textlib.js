@@ -83,7 +83,7 @@ var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
 
 // var english_gallery = "<p id='about'><u>Gallery</u></p><br>";
 
-var english_contact = "<p id='about'><u>Contact</u></p><br>";
+var english_contact = "";
 
 // German content
 var german_link_about = "Über uns";
@@ -175,7 +175,7 @@ var german_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
 //     "<li><a href='resources/images/buitenkant-reitz.jpg' title='Buite'><img src='resources/images/facebook_logo.png' alt='facebook'></a></li>" +
 //     "</ul></div>";
 
-var german_contact = "<p id='about'><u>Kontact</u></p><br>";
+var german_contact = "";
 
 // Polish content
 var polish_link_about = "O nas";
@@ -261,4 +261,4 @@ var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
 
   // var polish_gallery = "<p id='about'><u>Galeria</u></p><br>";
 
-  var polish_contact = "<p id='about'><u>Kontact</u></p><br>";
+  var polish_contact = "";
