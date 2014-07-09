@@ -314,7 +314,7 @@ $(window).load(function() {
   next_track = Math.floor((Math.random() * audioarray.length) + 1);
   $("#audio-control").attr('src',audioarray[next_track-1][0]);
   $("#audio-control").trigger('play');
-  $("#roll").html(audioarray[next_track-1][1] + ' :: ');
+  $("#roll").html(audioarray[next_track-1][1]);
   $('#roll').bind('marquee', function() {
     var ob = $(this);
     var tw = ob.width();
