@@ -296,11 +296,11 @@ $(window).load(function() {
   audioarray = new Array();
   item = new Array();
   item[0] = 'resources/audio/chopin.wav';
-  item[1] = 'Chopin';
+  item[1] = 'Chopin - Sonata op. 65';
   audioarray.push(item);
   item = new Array();
   item[0] = 'resources/audio/chopin.wav';
-  item[1] = 'Chopin';
+  item[1] = 'Chopin - Sonata op. 65';
   audioarray.push(item);
   // item[0] = 'resources/audio/goforit.mp3';
   // item[1] = 'Tapiador - Go For It';
@@ -314,7 +314,7 @@ $(window).load(function() {
   next_track = Math.floor((Math.random() * audioarray.length) + 1);
   $("#audio-control").attr('src',audioarray[next_track-1][0]);
   $("#audio-control").trigger('play');
-  $("#roll").html(':: Now playing :: ' + audioarray[next_track-1][1] + ' :: ');
+  $("#roll").html(audioarray[next_track-1][1] + ' :: ');
   $('#roll').bind('marquee', function() {
     var ob = $(this);
     var tw = ob.width();
