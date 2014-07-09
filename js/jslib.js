@@ -333,7 +333,7 @@ $(window).load(function() {
     }
     $("#audio-control").attr('src',audioarray[next_track-1][0]);
     $("#audio-control").trigger('play');
-    $("#roll").html(':: Now playing :: ' + audioarray[next_track-1][1] + ' :: ');
+    $("#roll").html(audioarray[next_track-1][1]);
   });
 
   $('#audio-control').click(function(){
