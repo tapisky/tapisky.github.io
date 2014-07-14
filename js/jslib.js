@@ -293,13 +293,21 @@ $(window).load(function() {
 
   // Load track urls in an array (manually)
   // TO DO: check browser and load ogg for other browsers
+  if (browserPrefix == 'moz')
+  {
+    audio_type = 'ogg';
+  }
+  else
+  {
+    audio_type = 'mp3';
+  }
   audioarray = new Array();
   item = new Array();
-  item[0] = 'resources/audio/chopin.wav';
+  item[0] = 'resources/audio/chopin.' + audio_type;
   item[1] = 'Chopin - Sonata op. 65';
   audioarray.push(item);
   item = new Array();
-  item[0] = 'resources/audio/chopin.wav';
+  item[0] = 'resources/audio/chopin.' + audio_type;
   item[1] = 'Chopin - Sonata op. 65';
   audioarray.push(item);
   // item[0] = 'resources/audio/goforit.mp3';
