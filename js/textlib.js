@@ -28,7 +28,11 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
   "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
-  "ul. św. Tomasza 43</small><br><br>";
+  "ul. św. Tomasza 43</small><br><br>" +
+  "<b>30 september/wrzesień 30 --- RZESZÓW</b><br><br>" +
+  "<b>1 october/październik --- PRZEMYŚL --- 18:00</b><br><br>" +
+  "<b>2 october/październik --- ŁAŃCUT --- 16:00</b><br><br>";
+
 
 var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -117,9 +121,12 @@ var german_about = "<p id='about'><u>Über uns</u></p><br>" +
   'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>';
 
 var german_calendar = "<p id='about'><u>Kalender</u></p><br>" +
-  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b>" +
-  "Akademia Muzyczna, sala koncertowa" +
-  "ul. św. Tomasza 43<br><br>";
+  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "<small>Akademia Muzyczna, sala koncertowa<br>" +
+  "ul. św. Tomasza 43</small><br><br>" +
+  "<b>30 september/wrzesień 30 --- RZESZÓW</b><br><br>" +
+  "<b>1 october/październik --- PRZEMYŚL --- 18:00</b><br><br>" +
+  "<b>2 october/październik --- ŁAŃCUT --- 16:00</b><br><br>";
 
 var german_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -211,8 +218,11 @@ var polish_about = "<p id='about'><u>O nas</u></p><br>" +
 
 var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
   "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
-  "Akademia Muzyczna, sala koncertowa<br>" +
-  "ul. św. Tomasza 43<br><br>";
+  "<small>Akademia Muzyczna, sala koncertowa<br>" +
+  "ul. św. Tomasza 43</small><br><br>" +
+  "<b>30 september/wrzesień 30 --- RZESZÓW</b><br><br>" +
+  "<b>1 october/październik --- PRZEMYŚL --- 18:00</b><br><br>" +
+  "<b>2 october/październik --- ŁAŃCUT --- 16:00</b><br><br>";
 
 var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
