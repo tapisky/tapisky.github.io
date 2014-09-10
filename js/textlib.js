@@ -26,7 +26,7 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
   "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>";
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
-  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "<big>29 september/wrzesień --- KRAKÓW --- 19:30</big><br>" +
   "Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43<br><br>";
 
@@ -210,8 +210,8 @@ var polish_about = "<p id='about'><u>O nas</u></p><br>" +
   "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy'ego oraz muzyczna literatura romantyzmu.</p><br>";
 
 var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
-  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b>" +
-  "Akademia Muzyczna, sala koncertowa" +
+  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43<br><br>";
 
 var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
