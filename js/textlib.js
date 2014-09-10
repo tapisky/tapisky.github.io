@@ -26,9 +26,9 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
   "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>";
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
-  "<em><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></em><br>" +
-  "Akademia Muzyczna, sala koncertowa<br>" +
-  "ul. św. Tomasza 43<br><br>";
+  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "<small>Akademia Muzyczna, sala koncertowa<br>" +
+  "ul. św. Tomasza 43</small><br><br>";
 
 var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
