@@ -26,9 +26,9 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
   "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>";
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
-  "<p id='info'><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
-  "<p id='info'>Akademia Muzyczna, sala koncertowa</p>" +
-  "<p id='info'>ul. św. Tomasza 43</p><br><br>";
+  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "Akademia Muzyczna, sala koncertowa<br>" +
+  "ul. św. Tomasza 43<br><br>";
 
 var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -117,9 +117,9 @@ var german_about = "<p id='about'><u>Über uns</u></p><br>" +
   'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>';
 
 var german_calendar = "<p id='about'><u>Kalender</u></p><br>" +
-  "<p id='info'><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
-  "<p id='info'>Akademia Muzyczna, sala koncertowa</p>" +
-  "<p id='info'>ul. św. Tomasza 43</p><br><br>";
+  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b>" +
+  "Akademia Muzyczna, sala koncertowa" +
+  "ul. św. Tomasza 43<br><br>";
 
 var german_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -210,9 +210,9 @@ var polish_about = "<p id='about'><u>O nas</u></p><br>" +
   "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy'ego oraz muzyczna literatura romantyzmu.</p><br>";
 
 var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
-  "<p id='info'><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
-  "<p id='info'>Akademia Muzyczna, sala koncertowa</p>" +
-  "<p id='info'>ul. św. Tomasza 43</p><br><br>";
+  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b>" +
+  "Akademia Muzyczna, sala koncertowa" +
+  "ul. św. Tomasza 43<br><br>";
 
 var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
