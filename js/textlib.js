@@ -26,9 +26,9 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
   "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>";
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
-  "<p><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
-  "<p>Akademia Muzyczna, sala koncertowa</p>" +
-  "<p>ul. św. Tomasza 43</p><br><br>";
+  "<p id='info'><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
+  "<p id='info'>Akademia Muzyczna, sala koncertowa</p>" +
+  "<p id='info'>ul. św. Tomasza 43</p><br><br>";
 
 var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -116,9 +116,10 @@ var german_about = "<p id='about'><u>Über uns</u></p><br>" +
   'im Jahr 2020, dem grossen Jubiläumsjahr Beethovens, Aufnahmen aller fünf Sonaten sowie der Variationswerke zu veröffentlichen. ' +
   'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>';
 
-var german_calendar = "<p><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
-  "<p>Akademia Muzyczna, sala koncertowa</p>" +
-  "<p>ul. św. Tomasza 43</p><br><br>";
+var german_calendar = "<p id='about'><u>Kalender</u></p><br>" +
+  "<p id='info'><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
+  "<p id='info'>Akademia Muzyczna, sala koncertowa</p>" +
+  "<p id='info'>ul. św. Tomasza 43</p><br><br>";
 
 var german_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -208,9 +209,10 @@ var polish_about = "<p id='about'><u>O nas</u></p><br>" +
   "Muzycy zamierzają nagrać wszystkie pięć sonat w roku 2020, będącym rokiem beethovenowskim z racji okrągłej rocznicy " +
   "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy'ego oraz muzyczna literatura romantyzmu.</p><br>";
 
-var polish_calendar = "<p><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
-  "<p>Akademia Muzyczna, sala koncertowa</p>" +
-  "<p>ul. św. Tomasza 43</p><br><br>";
+var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
+  "<p id='info'><b>29 september/wrzesień --- KRAKÓW --- 19:30</b></p>" +
+  "<p id='info'>Akademia Muzyczna, sala koncertowa</p>" +
+  "<p id='info'>ul. św. Tomasza 43</p><br><br>";
 
 var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
