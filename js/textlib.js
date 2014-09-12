@@ -26,12 +26,18 @@ var english_about = "<p id='about'><u>About</u></p><br>" +
   "The musicians' other favourites are works by Bach, Debussy, as well as these from the Romantic period.</p><br>";
 
 var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
-  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "<b>29 september/września --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43</small><br><br>" +
-  "<b>30 september/wrzesień 30 --- RZESZÓW</b><br><br>" +
-  "<b>1 october/październik --- PRZEMYŚL --- 18:00</b><br><br>" +
-  "<b>2 october/październik --- ŁAŃCUT --- 16:00</b><br><br>";
+  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Mieczysława Karłowicza<br>" +
+  "ul. Krakowska 20</small><br><br>" +
+  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Artura Malawskiego<br>" +
+  "ul. J. Słowackiego 91</small><br><br>" +
+  "<b>2 october/października --- LAŃCUT --- 16:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
+  "ul. 3-go Maja 19</small><br><br>" ;
 
 
 var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
@@ -121,12 +127,18 @@ var german_about = "<p id='about'><u>Über uns</u></p><br>" +
   'Ansonsten gehören etwa Bach, Debussy und viele grosse Werke der Romantik zu ihrem Repertoire.</p><br>';
 
 var german_calendar = "<p id='about'><u>Kalender</u></p><br>" +
-  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "<b>29 september/września --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43</small><br><br>" +
-  "<b>30 september/wrzesień 30 --- RZESZÓW</b><br><br>" +
-  "<b>1 october/październik --- PRZEMYŚL --- 18:00</b><br><br>" +
-  "<b>2 october/październik --- ŁAŃCUT --- 16:00</b><br><br>";
+  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Mieczysława Karłowicza<br>" +
+  "ul. Krakowska 20</small><br><br>" +
+  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Artura Malawskiego<br>" +
+  "ul. J. Słowackiego 91</small><br><br>" +
+  "<b>2 october/października --- LAŃCUT --- 16:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
+  "ul. 3-go Maja 19</small><br><br>" ;
 
 var german_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -217,12 +229,18 @@ var polish_about = "<p id='about'><u>O nas</u></p><br>" +
   "narodzin kompozytora. Inne ulubione kompozycje duetu, to utwory Bacha, Debussy'ego oraz muzyczna literatura romantyzmu.</p><br>";
 
 var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
-  "<b>29 september/wrzesień --- KRAKÓW --- 19:30</b><br>" +
+  "<b>29 september/września --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43</small><br><br>" +
-  "<b>30 september/wrzesień 30 --- RZESZÓW</b><br><br>" +
-  "<b>1 october/październik --- PRZEMYŚL --- 18:00</b><br><br>" +
-  "<b>2 october/październik --- ŁAŃCUT --- 16:00</b><br><br>";
+  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Mieczysława Karłowicza<br>" +
+  "ul. Krakowska 20</small><br><br>" +
+  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Artura Malawskiego<br>" +
+  "ul. J. Słowackiego 91</small><br><br>" +
+  "<b>2 october/października --- LAŃCUT --- 16:00</b><br><br>" +
+  "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
+  "ul. 3-go Maja 19</small><br><br>" ;
 
 var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
