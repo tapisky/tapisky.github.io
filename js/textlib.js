@@ -29,13 +29,13 @@ var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
   "<b>29 september/września --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43</small><br><br>" +
-  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br><br>" +
+  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br>" +
   "<small>szkoła muzyczna im. Mieczysława Karłowicza<br>" +
   "ul. Krakowska 20</small><br><br>" +
-  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br><br>" +
+  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br>" +
   "<small>szkoła muzyczna im. Artura Malawskiego<br>" +
   "ul. J. Słowackiego 91</small><br><br>" +
-  "<b>2 october/października --- LAŃCUT --- 16:00</b><br><br>" +
+  "<b>2 october/października --- LAŃCUT --- 16:00</b><br>" +
   "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
   "ul. 3-go Maja 19</small><br><br>" ;
 
@@ -130,13 +130,13 @@ var german_calendar = "<p id='about'><u>Kalender</u></p><br>" +
   "<b>29 september/września --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43</small><br><br>" +
-  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br><br>" +
+  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br>" +
   "<small>szkoła muzyczna im. Mieczysława Karłowicza<br>" +
   "ul. Krakowska 20</small><br><br>" +
-  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br><br>" +
+  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br>" +
   "<small>szkoła muzyczna im. Artura Malawskiego<br>" +
   "ul. J. Słowackiego 91</small><br><br>" +
-  "<b>2 october/października --- LAŃCUT --- 16:00</b><br><br>" +
+  "<b>2 october/października --- LAŃCUT --- 16:00</b><br>" +
   "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
   "ul. 3-go Maja 19</small><br><br>" ;
 
@@ -232,13 +232,13 @@ var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
   "<b>29 september/września --- KRAKÓW --- 19:30</b><br>" +
   "<small>Akademia Muzyczna, sala koncertowa<br>" +
   "ul. św. Tomasza 43</small><br><br>" +
-  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br><br>" +
+  "<b>30 september/września --- PRZEWORSK --- 17:00</b><br>" +
   "<small>szkoła muzyczna im. Mieczysława Karłowicza<br>" +
   "ul. Krakowska 20</small><br><br>" +
-  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br><br>" +
+  "<b>1 october/października --- PRZEMYŚL --- 17:00</b><br>" +
   "<small>szkoła muzyczna im. Artura Malawskiego<br>" +
   "ul. J. Słowackiego 91</small><br><br>" +
-  "<b>2 october/października --- LAŃCUT --- 16:00</b><br><br>" +
+  "<b>2 october/października --- LAŃCUT --- 16:00</b><br>" +
   "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
   "ul. 3-go Maja 19</small><br><br>" ;
 
