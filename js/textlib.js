@@ -38,10 +38,10 @@ var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
   "<b>2 october/października --- LAŃCUT --- 16:00</b><br>" +
   "<small>szkoła muzyczna im. Teodora Leszetyckiego<br>" +
   "ul. 3-go Maja 19</small><br><br>" +
-  "<b>07-12-2014, 20:30 --- Zürich (Bellevue) ---</b><br>" +
+  "<b>07-12-2014 --- ZÜRICH (BELLEVUE) --- 20:30</b><br>" +
   "<small>Salon Theater Herzbaracke<br>" +
   "(Apéro 17:30, Abendessen/supper19:30)<br>" +
-  "Plätze müssen reserviert werden über <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a><br>" +
+  "Plätze müssen reserviert werden über <li><a href='http://www.herzbaracke.ch'>www.herzbaracke.ch</a></li><br>" +
   "Ticket reservation obligatory at <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
 
 
