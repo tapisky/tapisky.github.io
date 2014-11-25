@@ -41,8 +41,8 @@ var english_calendar = "<p id='about'><u>Calendar</u></p><br>" +
   "<b>07-12-2014 --- ZÜRICH (BELLEVUE) --- 20:30</b><br>" +
   "<small>Salon Theater Herzbaracke<br>" +
   "(Apéro 17:30, Abendessen/supper19:30)<br>" +
-  "Plätze müssen reserviert werden über <li><a href='http://www.herzbaracke.ch'>www.herzbaracke.ch</a></li><br>" +
-  "Ticket reservation obligatory at <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
+  "Plätze müssen reserviert werden über <a class='calendar_link' href='http://www.herzbaracke.ch'>www.herzbaracke.ch</a><br>" +
+  "Ticket reservation obligatory at <a class='calendar_link' href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
 
 
 var english_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
@@ -147,8 +147,8 @@ var german_calendar = "<p id='about'><u>Kalender</u></p><br>" +
   "<b>07-12-2014, 20:30 --- Zürich (Bellevue) ---</b><br>" +
   "<small>Salon Theater Herzbaracke<br>" +
   "(Apéro 17:30, Abendessen/supper19:30)<br>" +
-  "Plätze müssen reserviert werden über <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a><br>" +
-  "Ticket reservation obligatory at <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
+  "Plätze müssen reserviert werden über <a class='calendar_link' href='http://www.herzbaracke.ch'>www.herzbaracke.ch</a><br>" +
+  "Ticket reservation obligatory at <a class='calendar_link' href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
 
 var german_repertoire = "<p id='about'><u>Repertoire</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+
@@ -254,8 +254,8 @@ var polish_calendar = "<p id='about'><u>Kalendarz</u></p><br>" +
   "<b>07-12-2014, 20:30 --- Zürich (Bellevue) ---</b><br>" +
   "<small>Salon Theater Herzbaracke<br>" +
   "(Apéro 17:30, Abendessen/supper19:30)<br>" +
-  "Plätze müssen reserviert werden über <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a><br>" +
-  "Ticket reservation obligatory at <a href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
+  "Plätze müssen reserviert werden über <a class='calendar_link' href='http://www.herzbaracke.ch'>www.herzbaracke.ch</a><br>" +
+  "Ticket reservation obligatory at <a class='calendar_link' href='www.herzbaracke.ch'>www.herzbaracke.ch</a></small><br><br>" ;
 
 var polish_repertoire = "<p id='about'><u>Repertuar</u></p><br>" +
   "<table><tr><td><p id='about'>Bach</p></td>"+

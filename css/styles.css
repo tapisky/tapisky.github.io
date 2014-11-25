@@ -159,7 +159,6 @@ a {
     cursor: pointer;
     text-decoration: none;
     opacity: 1;
-    color: white;
     -webkit-transform: scale(1,1);
     -webkit-transition-timing-function: ease-out;
     -webkit-transition-duration: 250ms;
@@ -394,4 +393,9 @@ td
 {
 vertical-align: text-top;
 padding:20px;
+}
+
+.calendar_link
+{
+    color:white;
 }
